@@ -1,2 +1,2 @@
-# open_edge-sports_db
+# OpenEdge Progress - Sports Database Basic Manipulations
 Sports DB Manipulation with Open Edge
